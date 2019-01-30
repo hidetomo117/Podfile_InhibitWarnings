@@ -2,9 +2,8 @@
 
 <全部を非表示>
 
-target 'YourProject' do
-    
-    inhibit_all_warnings!
+    target 'YourProject' do
+        inhibit_all_warnings!
 
 <個別に非表示>
 
