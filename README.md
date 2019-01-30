@@ -1,4 +1,4 @@
-# Podfile_InhibitWarnings
+# Podfile内のWarningを非表示にする方法
 
 <全部を非表示>
 
